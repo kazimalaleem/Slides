@@ -1,6 +1,6 @@
 # Frontend Mentor - Base Apparel coming soon page
 
-![Design preview for the Base Apparel coming soon page coding challenge](./img/my-reposide.png)
+![Design preview for the Base Apparel coming soon page coding challenge](../slides/assets/img/my-reposide.png)
 
 ## Welcome! 👋
 
